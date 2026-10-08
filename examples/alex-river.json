@@ -1,0 +1,29 @@
+{
+  "slug": "alex-river",
+  "name": "Alex River",
+  "bio": "Making small, thoughtful tools for a calmer internet. Currently turning a weekend project into my day job.",
+  "location": "Remote",
+  "website": "https://example.com",
+  "github": "example",
+  "tags": [
+    "SaaS",
+    "Open source"
+  ],
+  "tools": [
+    "TypeScript",
+    "PostgreSQL",
+    "Figma"
+  ],
+  "projects": [
+    {
+      "name": "Little Notes",
+      "description": "A quiet space to collect your thoughts. Fictional example project.",
+      "url": "https://example.com/notes"
+    }
+  ],
+  "socials": {
+    "x": "https://example.com/social/x",
+    "bluesky": "https://example.com/social/bluesky",
+    "linkedin": "https://example.com/social/linkedin"
+  }
+}
