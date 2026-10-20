@@ -1,0 +1,20 @@
+{
+  "slug": "neopanic",
+  "name": "Neo",
+  "bio": "Building Glim, a free, open-source macOS file viewer for documents, data, images, and code.",
+  "location": "Shanghai, China",
+  "github": "NeoPanic",
+  "tags": [
+    "Rust",
+    "macOS",
+    "open-source"
+  ],
+  "tools": [],
+  "projects": [
+    {
+      "name": "Glim",
+      "description": "Free, open-source macOS viewer for Markdown, PDFs, images, JSON, CSV, and source code. Apple Silicon and Intel.",
+      "url": "https://github.com/NeoPanic/Glim"
+    }
+  ]
+}
