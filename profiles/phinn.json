@@ -1,0 +1,56 @@
+{
+  "slug": "phinn",
+  "name": "phinn",
+  "bio": "Solo developer shipping the Kinet family — 22 apps across the App Store, from AI agents to meeting notes, all local-first. One app per job, no bloat.",
+  "location": "Remote",
+  "website": "https://phinn.github.io/kinetapp/",
+  "github": "phinn",
+  "tags": [
+    "iOS",
+    "macOS",
+    "AI",
+    "Indie",
+    "Swift",
+    "Electron"
+  ],
+  "tools": [
+    "Swift",
+    "SwiftUI",
+    "TypeScript",
+    "Electron",
+    "SQLite",
+    "XcodeGen"
+  ],
+  "projects": [
+    {
+      "name": "KinetAios",
+      "description": "All-in-one local-first AI agent dashboard. Multi-engine (Direct / Claude Code / Codex), tools, long-term memory.",
+      "url": "https://apps.apple.com/app/id6809450051"
+    },
+    {
+      "name": "M5Chat",
+      "description": "Multi-engine AI in your pocket. Voice, data analysis, agent tools — everything on-device.",
+      "url": "https://apps.apple.com/app/id6820196518"
+    },
+    {
+      "name": "KinetTask",
+      "description": "Local-first task manager with on-device AI. Data stays in local SQLite, no account, no cloud.",
+      "url": "https://apps.apple.com/app/id6780944289"
+    },
+    {
+      "name": "KinetBrief",
+      "description": "AI meeting notes — walk out of the room with minutes done.",
+      "url": "https://apps.apple.com/app/id6782778566"
+    },
+    {
+      "name": "KinetSoul",
+      "description": "AI journal — give your feelings a way out.",
+      "url": "https://apps.apple.com/app/id6780600464"
+    },
+    {
+      "name": "KinetFit",
+      "description": "Health companion — wake the body up first.",
+      "url": "https://apps.apple.com/app/id6773755689"
+    }
+  ]
+}
