@@ -1,0 +1,27 @@
+{
+  "slug": "monica-hall",
+  "name": "Monica Hall",
+  "bio": "Indie builder & marketer focusing on AI tools, e-commerce growth, and creative automation for online brands.",
+  "location": "Remote",
+  "website": "https://advariq.com",
+  "github": "monica-1988",
+  "tags": [
+    "SaaS",
+    "AI",
+    "E-commerce",
+    "Marketing"
+  ],
+  "tools": [
+    "TypeScript",
+    "Next.js",
+    "TailwindCSS",
+    "Python"
+  ],
+  "projects": [
+    {
+      "name": "AdVariq",
+      "description": "AI commercial ad creative and product marketing visual generator for DTC brands and Shopify sellers.",
+      "url": "https://advariq.com"
+    }
+  ]
+}
