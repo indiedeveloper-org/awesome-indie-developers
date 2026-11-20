@@ -1,0 +1,17 @@
+{
+  "slug": "brody-richmond",
+  "name": "Brody Richmond",
+  "bio": "Independent iPhone game developer building StepHaven, a town that players grow by walking.",
+  "location": "United States",
+  "website": "https://northlaneapps.dev/",
+  "github": "BMRich12",
+  "tags": ["iOS", "Indie games"],
+  "tools": ["Swift", "SpriteKit", "Core Graphics"],
+  "projects": [
+    {
+      "name": "StepHaven",
+      "description": "An iPhone town builder powered by walks. Spend the steps Apple Health records on cottages and gardens, or invite friends to build in the same town.",
+      "url": "https://stephaven.app/"
+    }
+  ]
+}
