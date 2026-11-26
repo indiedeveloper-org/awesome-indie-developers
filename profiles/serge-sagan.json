@@ -1,0 +1,26 @@
+{
+  "slug": "serge-sagan",
+  "name": "Serge Sagan",
+  "bio": "Founder of EpicMail. All your inboxes. Finally together.",
+  "location": "Boise, Idaho, United States",
+  "github": "Sergey-PrudentDev",
+  "tags": [
+    "bootstrapped",
+    "email",
+    "web",
+    "android"
+  ],
+  "tools": [
+    "C#",
+    ".NET",
+    "Blazor",
+    ".NET MAUI"
+  ],
+  "projects": [
+    {
+      "name": "EpicMail",
+      "description": "A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. Valid card required to connect accounts; Adventurer stays $0 unless upgraded.",
+      "url": "https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=indie_developer_founder_profile"
+    }
+  ]
+}
