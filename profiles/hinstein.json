@@ -1,0 +1,26 @@
+{
+  "slug": "hinstein",
+  "name": "Hinstein",
+  "bio": "Building interactive web products including StagePeek, a 2D/3D concert seat sightline and venue preview tool covering 201 arenas, stadiums, and theaters worldwide.",
+  "location": "Remote",
+  "website": "https://stagepeek.live",
+  "github": "Hinstein",
+  "tags": [
+    "Web",
+    "3D",
+    "Music",
+    "Visualization"
+  ],
+  "tools": [
+    "TypeScript",
+    "Next.js",
+    "Three.js"
+  ],
+  "projects": [
+    {
+      "name": "StagePeek",
+      "description": "Preview 2D seating charts and interactive 3D concert stage sightlines across 201 global venues with 1x-10x zoom and no login required.",
+      "url": "https://stagepeek.live"
+    }
+  ]
+}
